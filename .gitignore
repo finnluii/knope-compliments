@@ -1,1 +1,5 @@
-KnopeCompliments.xcodeproj
+# User Settings
+xcuserdata/
+
+# Avoid checking in source code from Xcode workspace
+*.xcworkspace
